@@ -1,11 +1,37 @@
 <div align="center">
-  <h1>Hi, I'm Aj 👋</h1>
+  <h1>Hi, I'm Danteh73 👋</h1>
   
   <img src="https://avatars.githubusercontent.com/u/your-user-id" width="180" height="180" style="border-radius:50%; border: 4px solid #00b4d8;" alt="Danteh73">
 
-  <h3>Website Developer | Frontend (React.js) | MERN Stack | Django | Network Engineer | Automation Expert</h3>
+  <h2>🚁 Currently Working On: <strong>NetNote Aero Drone Project</strong></h2>
+  <p><strong>Building advanced drone systems and autonomous robotics for agriculture, surveying, and defense applications.</strong></p>
   
-  <p><strong>Building scalable web applications and automation tools that solve real-world problems.</strong></p>
+  <h3>Website Developer | Frontend (React.js) | MERN Stack | Django | Network Engineer | Automation</h3>
+</div>
+
+---
+
+### 🏢 NetNote Group
+
+<div align="center">
+  <img src="https://github.com/Danteh73/Danteh73/blob/main/N8kbW.jpg?raw=true" width="260" alt="NetNote Group">
+</div>
+
+### Our Companies
+
+<div align="center" style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap; margin-top: 20px;">
+  <div>
+    <img src="https://github.com/Danteh73/Danteh73/blob/main/PwVOl.jpg?raw=true" width="170" alt="NetNote Systems">
+    <p><strong>NetNote Systems</strong></p>
+  </div>
+  <div>
+    <img src="https://github.com/Danteh73/Danteh73/blob/main/J5TQL.jpg?raw=true" width="170" alt="NetNote Security">
+    <p><strong>NetNote Security</strong></p>
+  </div>
+  <div>
+    <img src="https://github.com/Danteh73/Danteh73/blob/main/cU7mb.jpg?raw=true" width="170" alt="NetNote Aero">
+    <p><strong>NetNote Aero</strong></p>
+  </div>
 </div>
 
 ---
@@ -40,7 +66,7 @@
 
 ### 🔥 Featured Projects
 
-<!-- Your pinned repositories will appear here automatically -->
+<!-- Your pinned repositories will show here automatically -->
 
 ---
 
@@ -56,6 +82,4 @@
 
 ---
 
-> **"Turning ideas into functional, scalable digital solutions."**
-
----
+> **"Building the future through technology — from robust systems to autonomous aerial solutions."**
