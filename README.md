@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm Danteh73 👋</h1>
+  <h1>Hi, I'm Aj 👋</h1>
   
   <img src="https://avatars.githubusercontent.com/u/your-user-id" width="180" height="180" style="border-radius:50%; border: 4px solid #00b4d8;" alt="Danteh73">
 
