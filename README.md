@@ -23,28 +23,30 @@
 
 ### Our Companies
 
-<div align="center" style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap; margin-top: 30px;">
+<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 50px; margin-top: 30px;">
 
   <!-- NetNote Systems -->
-  <div style="text-align: center; max-width: 220px;">
-    <img src="https://github.com/Danteh73/Danteh73/blob/main/PwVOl.jpg?raw=true" width="160" alt="NetNote Systems">
+  <div style="text-align: center; max-width: 320px;">
+    <img src="https://github.com/Danteh73/Danteh73/blob/main/PwVOl.jpg?raw=true" width="170" alt="NetNote Systems">
     <h3>NetNote Systems</h3>
-    <p><strong>Software Development, Professional Websites, Network Infrastructure & IT Support</strong></p>
+    <p><strong>NetNote Systems</strong> is the core technology arm of the group. It focuses on software development, professional website design and development, network infrastructure setup and management, and reliable IT support services for businesses and organizations.</p>
   </div>
 
   <!-- NetNote Security -->
-  <div style="text-align: center; max-width: 220px;">
-    <img src="https://github.com/Danteh73/Danteh73/blob/main/J5TQL.jpg?raw=true" width="160" alt="NetNote Security">
+  <div style="text-align: center; max-width: 320px;">
+    <img src="https://github.com/Danteh73/Danteh73/blob/main/J5TQL.jpg?raw=true" width="170" alt="NetNote Security">
     <h3>NetNote Security</h3>
-    <p><strong>Network Security, CCTV Installation & Advanced Surveillance Systems</strong></p>
+    <p><strong>NetNote Security</strong> specializes in protecting digital and physical assets. The company provides advanced network security solutions, professional CCTV installation, and comprehensive surveillance systems using modern security technologies.</p>
   </div>
 
   <!-- NetNote Aero -->
-  <div style="text-align: center; max-width: 220px;">
-    <img src="https://github.com/Danteh73/Danteh73/blob/main/cU7mb.jpg?raw=true" width="160" alt="NetNote Aero">
+  <div style="text-align: center; max-width: 320px;">
+    <img src="https://github.com/Danteh73/Danteh73/blob/main/cU7mb.jpg?raw=true" width="170" alt="NetNote Aero">
     <h3>NetNote Aero</h3>
-    <p><strong>Drone Manufacturing, Robotics & Future Defense Technologies</strong></p>
+    <p><strong>NetNote Aero</strong> is our aerospace and defense technology division. We are currently focused on drone manufacturing and robotics, with future expansion into missile systems, air defense technologies, and autonomous solutions for agriculture, surveying, and defense applications.</p>
   </div>
+
+</div>
 
 </div>
 
