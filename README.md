@@ -107,4 +107,4 @@
 
 ---
 
-> **"Building the future through technology — from robust systems to autonomous aerial solutions and world super defense systems."**
+> **Building the future through technology from robust systems to autonomous aerial solutions and world super defense systems.**
