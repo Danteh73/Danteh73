@@ -12,8 +12,8 @@
 ---
 
 ### 🏢 NetNote Group
-
-<div align="center">
+<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 50px; margin-top: 30px;">
+  <div align="center">
   <img src="https://github.com/Danteh73/Danteh73/blob/main/N8kbW.jpg?raw=true" width="150" alt="NetNote Group">
 </div>
 
@@ -45,6 +45,8 @@
     <h3>NetNote Aero</h3>
     <p><strong>NetNote Aero</strong> is our aerospace and defense technology division. We are currently focused on drone manufacturing and robotics, with future expansion into missile systems, air defense technologies, and autonomous solutions for agriculture, surveying, and defense applications.</p>
   </div>
+
+</div>
 
 </div>
 
